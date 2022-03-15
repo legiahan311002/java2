@@ -1,0 +1,8 @@
+C:\Users\ASUS-PRO\source\repos\chayT\chayT\bin\Debug\chayT.exe.config
+C:\Users\ASUS-PRO\source\repos\chayT\chayT\bin\Debug\chayT.exe
+C:\Users\ASUS-PRO\source\repos\chayT\chayT\bin\Debug\chayT.pdb
+C:\Users\ASUS-PRO\source\repos\chayT\chayT\obj\Debug\chayT.csproj.AssemblyReference.cache
+C:\Users\ASUS-PRO\source\repos\chayT\chayT\obj\Debug\chayT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS-PRO\source\repos\chayT\chayT\obj\Debug\chayT.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PRO\source\repos\chayT\chayT\obj\Debug\chayT.exe
+C:\Users\ASUS-PRO\source\repos\chayT\chayT\obj\Debug\chayT.pdb
